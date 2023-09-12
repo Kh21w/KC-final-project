@@ -5,30 +5,16 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+خالد وليد الكندري
 
 ### اسم المشروع
-
+احجز (RESERVE)
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+نموذج أولي يحاكي آلية حجز تذاكر السفر باستعمال لغة بايثون
 
 
 # الأعمال المستقبلية
-
+لا يوجد
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
-
-
